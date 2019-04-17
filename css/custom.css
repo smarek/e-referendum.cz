@@ -1,0 +1,103 @@
+body {
+    background-color: #2862a1;
+    color: white;
+}
+
+.full-width-container {
+    width: 100%;
+    padding: 2rem;
+    max-width: 100%;
+    clear: both;
+    margin: 0 auto;
+    min-width: 400px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.full-width-container > .container {
+    margin-top: 4rem;
+    max-width: 720px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.lion {
+    height: 85px;
+    float: left;
+    margin-right: 3rem;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.intro p {
+    font-size: 2rem;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.bg-yellow {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.bg-dark-yellow {
+    background-color: #ecae1a;
+    color: white;
+}
+
+.bg-white {
+    background-color: white;
+    color: black;
+}
+
+.round-box {
+    margin-top: 30px;
+    border-radius: .25rem;
+    font-size: 1.4rem;
+}
+
+.round-number {
+    -webkit-border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    border-radius: 0.8em;
+    display: inline-block;
+    width: 1.6em;
+    border: 1px solid white;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.m-2 {
+    margin: 2rem;
+}
+
+.p-2 {
+    padding: 2rem;
+}
+
+.login img {
+    max-height: 100px;
+    max-width: 100%;
+}
+
+.explanation {
+    font-size: 1rem;
+    padding-top: 2rem;
+    color: #707070;
+}
+
+.text-bold {
+    font-weight: bold;
+}
