@@ -1,0 +1,2 @@
+cat normalize.css skeleton.css custom.css > compile.css
+~/.go/bin/minify -a compile.css --css-decimals -1 -o compile.min.css
